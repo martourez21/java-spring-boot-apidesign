@@ -8,6 +8,7 @@ public class JavaSpringBootApidesignApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JavaSpringBootApidesignApplication.class, args);
+		System.out.println("Hello Spring...");
 	}
 
 }
